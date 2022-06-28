@@ -1,0 +1,67 @@
+{
+  "intro": "Quelques-uns des principaux langages, technologies, outils et plates-formes avec lesquels j'ai travaillé :",
+  "skills": [{
+
+    "title": "Languages & Databases",
+    "items" : [
+      {
+        "icon": "images/skills/php.png",
+        "title": "PHP"
+      },
+      {
+        "icon": "images/skills/js.png",
+        "title": "JavaScript"
+      },
+      {
+        "icon": "images/skills/postgresql.png",
+        "title": "PostgreSQL"
+      },
+      {
+        "icon": "images/skills/mysql.png",
+        "title": "MySQL"
+      }
+    ]},
+    {
+      "title": "Frameworks & Technologies",
+      "items" : [
+        {
+          "icon": "images/skills/symfony.png",
+          "title": "Symfony"
+        },
+        {
+          "icon": "images/skills/angular.png",
+          "title": "AngularJS"
+        },
+        {
+          "icon": "images/skills/angular.png",
+          "title": "Angular"
+        },
+        {
+          "icon": "images/skills/react.png",
+          "title": "React"
+        },
+        {
+          "icon": "images/skills/nodejs.png",
+          "title": "Nodejs"
+        }
+      ]
+    },
+    {
+      "title" : "Tools & Platforms",
+      "items": [
+        {
+          "icon": "images/skills/phpstorm.png",
+          "title": "PhpStorm"
+        },
+        {
+          "icon": "images/skills/git.png",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/docker.png",
+          "title": "Docker"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "social": [
+    {
+      "network" : "linkedin",
+      "href": "https://fr.linkedin.com/in/redouan-tayaa-08485b59"
+    },
+    {
+      "network" : "github",
+      "href": "https://github.com/RedouanTayaa"
+    },
+    {
+      "network" : "email",
+      "href": "mailto:redouan.tayaa@gmail.com"
+    }
+  ]
+}

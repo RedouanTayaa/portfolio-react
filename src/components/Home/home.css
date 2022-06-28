@@ -1,0 +1,19 @@
+.name-style {
+    font-size: 5em;
+}
+
+.inline-child {
+    display: inline-block;
+}
+
+.main-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.introduction {
+    flex-direction: row;
+}

@@ -1,0 +1,40 @@
+{
+  "education":[
+    {
+      "title": "2018",
+      "cardTitle": "Formation Angular",
+      "cardSubtitle":"Apollo",
+      "cardDetailedText": "Pierrelatte (26)",
+      "icon" : {
+        "src": "images/education/apollo.png"
+      }
+    },
+    {
+      "title": "2016",
+      "cardTitle": "Formation Symfony",
+      "cardSubtitle":"Lexik",
+      "cardDetailedText": "Montpellier (34)",
+      "icon" : {
+        "src": "images/education/lexik.png"
+      }
+    },
+    {
+      "title": "2016",
+      "cardTitle": "Ingénieur Informatique",
+      "cardSubtitle":"ITII Picardie / CNAM",
+      "cardDetailedText": "Beauvais (60)",
+      "icon" : {
+        "src": "images/education/cnam.png"
+      }
+    },
+    {
+      "title": "2013",
+      "cardTitle": "DUT Informatique",
+      "cardSubtitle":"IUT",
+      "cardDetailedText": "Amiens (80)",
+      "icon" : {
+        "src": "images/education/iut.png"
+      }
+    }
+  ]
+}

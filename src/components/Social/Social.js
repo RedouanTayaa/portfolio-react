@@ -1,0 +1,37 @@
+import React, { useEffect, useState, useContext } from 'react';
+import { SocialIcon } from 'react-social-icons';
+import { ThemeContext } from 'styled-components';
+import endpoints from '../../constants/endpoints';
+import './social.css';
+
+function Social() {
+    const theme = useContext(ThemeContext);
+    const [data, setData] = useState(null);
+
+    useEffect(() => {
+        fetch(endpoints.social, {
+            method: 'GET',
+        })
+            .then((res) => res.json())
+            .then((res) => setData(res))
+            .catch((err) => err);
+    }, []);
+
+    return (
+        <div className="social">
+            {data ? data.social.map((social) => (
+                <SocialIcon
+                    key={social.network}
+                    className="icon-style"
+                    url={social.href}
+                    network={social.network}
+                    bgColor={theme.socialIconBgColor}
+                    target="_blank"
+                    rel="noopener"
+                />
+            )) : null}
+        </div>
+    );
+}
+
+export default Social;

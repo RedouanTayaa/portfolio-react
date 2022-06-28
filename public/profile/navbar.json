@@ -1,0 +1,35 @@
+{
+  "logo" : {
+    "source": "images/logo.png",
+    "height" : 45,
+    "width" : 50
+  },
+  "sections": [
+    {
+      "title": "Accueil",
+      "href": "/"
+    },
+    {
+      "title": "A propos",
+      "href": "/about"
+    },
+    {
+      "title": "Skills",
+      "href": "/skills"
+    },
+    {
+      "title": "Formation",
+      "href": "/education"
+    },
+    {
+      "title": "Expérience",
+      "href": "/experience"
+    },
+    {
+      "title": "CV",
+      "href": "pdf/Redouan_Tayaa.pdf",
+      "type": "link"
+    }
+  ]
+
+}

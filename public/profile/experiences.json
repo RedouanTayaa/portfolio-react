@@ -1,0 +1,38 @@
+{
+  "experiences": [
+    {
+      "title": "Développeur Web",
+      "subtitle": "MDHC",
+      "workType": "Remote",
+      "workDescription": [
+        "Développement d'une plateforme de télésurveillance médicale de suivi de diabète.",
+        "API sous Symfony 4",
+        "Front sous AngularJs avec passage à Angular",
+        "Application mobile Cordova avec propre plugins Java/Swift"
+      ],
+      "dateText": "09/2019 – En cours",
+      "stack": ["Symfony", "AngularJS", "Angular", "MySQL", "API", "Cordova", "PhpUnit", "Karma", "Jenkins", "Docker"]
+    },
+    {
+      "title": "Développeur Web",
+      "subtitle": "Otipass",
+      "workType": "Montélimar (26)",
+      "workDescription": [
+        "Développement d'une application web sous Zend",
+        "Développement d'applications mobile Android natif et Ionic"
+      ],
+      "dateText": "01/2019 – 08/2019",
+      "stack": ["Ionic", "Zend", "AngularJS"]
+    },
+    {
+      "title": "Développeur Web",
+      "subtitle": "Gamma Software",
+      "workType": "Pierrelatte (26)",
+      "workDescription": [
+        "Intégré dans une équipe chargée du développement d'une application Web d'HSE sous Symfony et Angular"
+      ],
+      "dateText": "10/2016 – 12/2018",
+      "stack": ["Symfony", "AngularJS", "Angular", "PostgreSQL", "API", "RabbitMQ", "PhpUnit", "Karma", "Jenkins"]
+    }
+  ]
+}
